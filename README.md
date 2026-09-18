@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/a20b4d84-1c2c-4a5b-a213-07a98744ba7c
+
 # Multi-Agent Debate Arena 🚀
 
 An enterprise-grade, event-driven web application that orchestrates real-time debates between multiple AI agents to write, critique, and optimize code.
