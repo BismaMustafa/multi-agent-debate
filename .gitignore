@@ -1,0 +1,12 @@
+# Node dependencies (Backend & Frontend)
+node_modules/
+dist/
+
+# Python environment & cache
+__pycache__/
+venv/
+.venv/
+*.pyc
+
+# Environment variables (API Keys - MOST IMPORTANT)
+.env
